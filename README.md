@@ -1,6 +1,6 @@
 I have a raster of MODIS data with global extent in a specific sinusoidal projection:
 
-````
+```
 +proj=sinu +lon_0=0 +x_0=0 +y_0=0 +R=6371007.181 +units=m +no_defs 
 ```
 
