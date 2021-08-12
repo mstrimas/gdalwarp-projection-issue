@@ -24,3 +24,5 @@ gdalwarp -t_srs "+proj=laea +lat_0=48.514 +lon_0=-145.204 +x_0=0 +y_0=0 +datum=W
 ```
 
 ![](hr.png)
+
+"+proj=laea +lat_0=22 +lon_0=-66 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_defs"
